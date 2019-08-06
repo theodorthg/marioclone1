@@ -1,0 +1,6 @@
+Temp/**
+Library/**
+obj/**
+*.cia
+*.cci
+*.cci.xml
